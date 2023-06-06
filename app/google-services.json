@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628174916644",
+    "project_id": "fast-4691e",
+    "storage_bucket": "fast-4691e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628174916644:android:1b0e40e1c79404bfd99cb1",
+        "android_client_info": {
+          "package_name": "com.example.fastprints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628174916644-con2gfneg5c6e7icm29l0cnjlh7d7aub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJVj1MBuPngcmnLO0LSaUHnTCqk2XAPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628174916644-con2gfneg5c6e7icm29l0cnjlh7d7aub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
